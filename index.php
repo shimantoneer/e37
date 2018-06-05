@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.zipscarwash.com/");
+header("Location: http://www.cleancarfeeling.com/");
 die();
 ?>
